@@ -225,59 +225,59 @@ img {
 
 /*  pluses end     */
 
-/*  scrinshots  */
+/*  screenshots  */
 
-.scrinshots {
+.screenshots {
   min-height: 487px; 
 }
 
-.scrinshots__scrinshots {
+.screenshots__screenshots {
   text-align: center;
   margin-top: 28px;
   padding-left: 2px; 
 }
 
-.scrinshots__scrinshots--flex {
+.screenshots__screenshots--flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   width: 1228px; 
 }
 
-.scrinshots--flex {
+.screenshots--flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   width: 620px; 
 }
-  .scrinshots--flex img {
+  .screenshots--flex img {
     margin-top: 9px;
     margin-left: 2px;
     margin-right: 16px; 
   }
 
-.scrinshots--flex__img-2 {
+.screenshots--flex__img-2 {
   position: relative;
   top: -17px; 
 }
 
-.scrinshots--flex__img-4 {
+.screenshots--flex__img-4 {
   position: relative;
   top: 2px;
   right: 29px; 
 }
 
-.scrinshots--flex--info {
+.screenshots--flex--info {
   position: relative;
   top: -17px; 
 }
-  .scrinshots--flex--info h2 {
+  .screenshots--flex--info h2 {
     font-size: 24px;
     color: #858c95;
     text-transform: none;
     font-weight: 400; 
   }
-  .scrinshots--flex--info p {
+  .screenshots--flex--info p {
     position: relative;
     top: 5px;
     width: 374px;
@@ -290,48 +290,48 @@ img {
     line-height: 1.55; 
   }
 
-.scrinshots--flex--info__head {
+.screenshots--flex--info__head {
   margin-bottom: -12px; 
 }
 
-.scrinshots--flex--info__head-2 {
+.screenshots--flex--info__head-2 {
   position: relative;
   right: 32px; 
 }
 
-.scrinshots--flex--info__head-3 {
+.screenshots--flex--info__head-3 {
   position: relative;
   top: 4px;
   right: 1px; 
 }
 
-.scrinshots--flex--info__head-4 {
+.screenshots--flex--info__head-4 {
   position: relative;
   top: 4px;
   right: 31px; 
 }
 
-.scrinshots--flex--info-left {
+.screenshots--flex--info-left {
   margin-right: 65px; 
 }
 
-.scrinshots--flex--info-left-2 {
+.screenshots--flex--info-left-2 {
   position: relative;
   top: 4px;
   right: 31px;
  }
 
-.scrinshots--flex--info-left-3 {
+.screenshots--flex--info-left-3 {
   margin-top: -10px;
   right: 1px; 
 }
 
-.scrinshots--flex--info-left-4 {
+.screenshots--flex--info-left-4 {
   margin-top: -11px;
   right: 31px; 
 }
 
-/*  scrinshots end     */
+/*  screenshots end     */
 
 /*  reviews  */
 
